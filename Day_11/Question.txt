@@ -1,0 +1,1 @@
+In attrition project, find elements which are highly correlated or perfectly correlated... with attrition element.
